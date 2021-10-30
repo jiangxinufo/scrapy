@@ -2,7 +2,7 @@
    :width: 400px
    
 ======
-Scrapy
+Scrapy：爬虫应用框架
 ======
 
 .. image:: https://img.shields.io/pypi/v/Scrapy.svg
